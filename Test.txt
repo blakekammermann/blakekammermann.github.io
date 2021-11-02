@@ -1,1 +1,5 @@
-Test
+    <script>
+        $(window).on('beforeunload', function(e) {
+            return 'You have unsaved stuff. Are you sure you want to leave?';
+        });
+    </script>
