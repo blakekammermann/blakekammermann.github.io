@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Videogame Features and Player Characteristics Study",
+"productVersion": "0.1",
+"dataUrl": "WebGLBuild_20220203.data.unityweb",
+"wasmCodeUrl": "WebGLBuild_20220203.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLBuild_20220203.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
